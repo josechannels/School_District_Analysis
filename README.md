@@ -31,10 +31,14 @@ The re-analysis of the grades from all the different schools show that:
 ### The top and bottom 5 schools according to overall passing rate are:
 !![image](Top_and_Bottom_5_schools.PNG)
 
-### The average reading and math scores per grade are:
+### The average math (top) and reading scores (bottom) per grade are:
 !![image](New_Reading_and_Math_scores_by_grade.PNG)
 
+### The new reading and math scores per school size are:
+![image](New_Scores_by_School_size.PNG)
 
+### The new reading and math scores per school type are:
+![image](new_scores_by_school_type.PNG)
 
 
 
