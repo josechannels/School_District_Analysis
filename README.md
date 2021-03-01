@@ -25,9 +25,9 @@ The re-analysis of the grades from all the different schools show that
  
 !![image](New_school_analysis.PNG)
 
-!![image](Top and Bottom 5 schools.PNG)
+!![image](Top_and_Bottom_5_schools.PNG)
 
-!![image](New Reading and Math scores by grade.PNG)
+!![image](New_Reading_and_Math_scores_by_grade.PNG)
 
 
 
