@@ -21,7 +21,8 @@ Software: Python 3.7.6, Visual Studio Code 1.53.2
 ## Summary
 
 The re-analysis of the grades from all the different schools show that
--  !![image](![image] 
+-  !![image](New_district_analysis.PNG)
+-  !![image](
 
 
 
