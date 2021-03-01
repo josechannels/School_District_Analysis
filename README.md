@@ -20,14 +20,21 @@ Software: Python 3.7.6, Visual Studio Code 1.53.2
 
 ## Summary
 
-The re-analysis of the grades from all the different schools show that
+The re-analysis of the grades from all the different schools show that:
+
+### The new district analysis looks like:
 !![image](New_district_analysis.PNG)
- 
+
+### The new school analysis looks like:
 !![image](New_school_analysis.PNG)
 
+### The top and bottom 5 schools according to overall passing rate are:
 !![image](Top_and_Bottom_5_schools.PNG)
 
+### The average reading and math scores per grade are:
 !![image](New_Reading_and_Math_scores_by_grade.PNG)
+
+
 
 
 
